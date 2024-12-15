@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/esercitazione_ambienti_virtuali/mlruns/0/5c66bae90de149f4b0fb0f29df01ea1d/artifacts
+end_time: 1734261849213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c66bae90de149f4b0fb0f29df01ea1d
+run_name: marvelous-quail-59
+run_uuid: 5c66bae90de149f4b0fb0f29df01ea1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734261846582
+status: 3
+tags: []
+user_id: codespace
